@@ -1,27 +1,655 @@
 {
   "history": [
     {
+      "date": "2025-12-10",
+      "spot_usd_per_ounce": 4196.4,
+      "usd_per_gram_24k": 134.92
+    },
+    {
+      "date": "2025-12-11",
+      "spot_usd_per_ounce": 4285.5,
+      "usd_per_gram_24k": 137.78
+    },
+    {
+      "date": "2025-12-12",
+      "spot_usd_per_ounce": 4300.1,
+      "usd_per_gram_24k": 138.25
+    },
+    {
+      "date": "2025-12-15",
+      "spot_usd_per_ounce": 4306.7,
+      "usd_per_gram_24k": 138.46
+    },
+    {
+      "date": "2025-12-16",
+      "spot_usd_per_ounce": 4304.5,
+      "usd_per_gram_24k": 138.39
+    },
+    {
+      "date": "2025-12-17",
+      "spot_usd_per_ounce": 4347.5,
+      "usd_per_gram_24k": 139.78
+    },
+    {
+      "date": "2025-12-18",
+      "spot_usd_per_ounce": 4339.5,
+      "usd_per_gram_24k": 139.52
+    },
+    {
+      "date": "2025-12-19",
+      "spot_usd_per_ounce": 4361.4,
+      "usd_per_gram_24k": 140.22
+    },
+    {
+      "date": "2025-12-22",
+      "spot_usd_per_ounce": 4444.6,
+      "usd_per_gram_24k": 142.9
+    },
+    {
+      "date": "2025-12-23",
+      "spot_usd_per_ounce": 4482.8,
+      "usd_per_gram_24k": 144.13
+    },
+    {
+      "date": "2025-12-24",
+      "spot_usd_per_ounce": 4480.6,
+      "usd_per_gram_24k": 144.05
+    },
+    {
+      "date": "2025-12-26",
+      "spot_usd_per_ounce": 4529.1,
+      "usd_per_gram_24k": 145.61
+    },
+    {
+      "date": "2025-12-29",
+      "spot_usd_per_ounce": 4325.1,
+      "usd_per_gram_24k": 139.06
+    },
+    {
+      "date": "2025-12-30",
+      "spot_usd_per_ounce": 4370.1,
+      "usd_per_gram_24k": 140.5
+    },
+    {
+      "date": "2025-12-31",
+      "spot_usd_per_ounce": 4325.6,
+      "usd_per_gram_24k": 139.07
+    },
+    {
+      "date": "2026-01-02",
+      "spot_usd_per_ounce": 4314.4,
+      "usd_per_gram_24k": 138.71
+    },
+    {
+      "date": "2026-01-05",
+      "spot_usd_per_ounce": 4436.9,
+      "usd_per_gram_24k": 142.65
+    },
+    {
+      "date": "2026-01-06",
+      "spot_usd_per_ounce": 4482.2,
+      "usd_per_gram_24k": 144.11
+    },
+    {
+      "date": "2026-01-07",
+      "spot_usd_per_ounce": 4449.3,
+      "usd_per_gram_24k": 143.05
+    },
+    {
+      "date": "2026-01-08",
+      "spot_usd_per_ounce": 4449.7,
+      "usd_per_gram_24k": 143.06
+    },
+    {
+      "date": "2026-01-09",
+      "spot_usd_per_ounce": 4490.3,
+      "usd_per_gram_24k": 144.37
+    },
+    {
+      "date": "2026-01-12",
+      "spot_usd_per_ounce": 4604.3,
+      "usd_per_gram_24k": 148.03
+    },
+    {
+      "date": "2026-01-13",
+      "spot_usd_per_ounce": 4589.2,
+      "usd_per_gram_24k": 147.55
+    },
+    {
+      "date": "2026-01-14",
+      "spot_usd_per_ounce": 4626.3,
+      "usd_per_gram_24k": 148.74
+    },
+    {
+      "date": "2026-01-15",
+      "spot_usd_per_ounce": 4616.3,
+      "usd_per_gram_24k": 148.42
+    },
+    {
+      "date": "2026-01-16",
+      "spot_usd_per_ounce": 4588.4,
+      "usd_per_gram_24k": 147.52
+    },
+    {
+      "date": "2026-01-20",
+      "spot_usd_per_ounce": 4759.6,
+      "usd_per_gram_24k": 153.02
+    },
+    {
+      "date": "2026-01-21",
+      "spot_usd_per_ounce": 4831.8,
+      "usd_per_gram_24k": 155.35
+    },
+    {
+      "date": "2026-01-22",
+      "spot_usd_per_ounce": 4908.8,
+      "usd_per_gram_24k": 157.82
+    },
+    {
+      "date": "2026-01-23",
+      "spot_usd_per_ounce": 4976.2,
+      "usd_per_gram_24k": 159.99
+    },
+    {
+      "date": "2026-01-26",
+      "spot_usd_per_ounce": 5079.7,
+      "usd_per_gram_24k": 163.32
+    },
+    {
+      "date": "2026-01-27",
+      "spot_usd_per_ounce": 5079.9,
+      "usd_per_gram_24k": 163.32
+    },
+    {
+      "date": "2026-01-28",
+      "spot_usd_per_ounce": 5301.6,
+      "usd_per_gram_24k": 170.45
+    },
+    {
+      "date": "2026-01-29",
+      "spot_usd_per_ounce": 5318.4,
+      "usd_per_gram_24k": 170.99
+    },
+    {
+      "date": "2026-01-30",
+      "spot_usd_per_ounce": 4713.9,
+      "usd_per_gram_24k": 151.56
+    },
+    {
+      "date": "2026-02-02",
+      "spot_usd_per_ounce": 4622.5,
+      "usd_per_gram_24k": 148.62
+    },
+    {
+      "date": "2026-02-03",
+      "spot_usd_per_ounce": 4903.7,
+      "usd_per_gram_24k": 157.66
+    },
+    {
+      "date": "2026-02-04",
+      "spot_usd_per_ounce": 4920.4,
+      "usd_per_gram_24k": 158.19
+    },
+    {
+      "date": "2026-02-05",
+      "spot_usd_per_ounce": 4861.4,
+      "usd_per_gram_24k": 156.3
+    },
+    {
+      "date": "2026-02-06",
+      "spot_usd_per_ounce": 4951.2,
+      "usd_per_gram_24k": 159.18
+    },
+    {
+      "date": "2026-02-09",
+      "spot_usd_per_ounce": 5050.9,
+      "usd_per_gram_24k": 162.39
+    },
+    {
+      "date": "2026-02-10",
+      "spot_usd_per_ounce": 5003.8,
+      "usd_per_gram_24k": 160.88
+    },
+    {
+      "date": "2026-02-11",
+      "spot_usd_per_ounce": 5071.6,
+      "usd_per_gram_24k": 163.06
+    },
+    {
+      "date": "2026-02-12",
+      "spot_usd_per_ounce": 4923.7,
+      "usd_per_gram_24k": 158.3
+    },
+    {
+      "date": "2026-02-13",
+      "spot_usd_per_ounce": 5022.0,
+      "usd_per_gram_24k": 161.46
+    },
+    {
+      "date": "2026-02-17",
+      "spot_usd_per_ounce": 4882.9,
+      "usd_per_gram_24k": 156.99
+    },
+    {
+      "date": "2026-02-18",
+      "spot_usd_per_ounce": 4986.5,
+      "usd_per_gram_24k": 160.32
+    },
+    {
+      "date": "2026-02-19",
+      "spot_usd_per_ounce": 4975.9,
+      "usd_per_gram_24k": 159.98
+    },
+    {
+      "date": "2026-02-20",
+      "spot_usd_per_ounce": 5059.3,
+      "usd_per_gram_24k": 162.66
+    },
+    {
+      "date": "2026-02-23",
+      "spot_usd_per_ounce": 5204.7,
+      "usd_per_gram_24k": 167.33
+    },
+    {
+      "date": "2026-02-24",
+      "spot_usd_per_ounce": 5155.8,
+      "usd_per_gram_24k": 165.76
+    },
+    {
+      "date": "2026-02-25",
+      "spot_usd_per_ounce": 5206.4,
+      "usd_per_gram_24k": 167.39
+    },
+    {
+      "date": "2026-02-26",
+      "spot_usd_per_ounce": 5176.5,
+      "usd_per_gram_24k": 166.43
+    },
+    {
+      "date": "2026-02-27",
+      "spot_usd_per_ounce": 5230.5,
+      "usd_per_gram_24k": 168.16
+    },
+    {
+      "date": "2026-03-02",
+      "spot_usd_per_ounce": 5294.4,
+      "usd_per_gram_24k": 170.22
+    },
+    {
+      "date": "2026-03-03",
+      "spot_usd_per_ounce": 5107.4,
+      "usd_per_gram_24k": 164.21
+    },
+    {
+      "date": "2026-03-04",
+      "spot_usd_per_ounce": 5120.2,
+      "usd_per_gram_24k": 164.62
+    },
+    {
+      "date": "2026-03-05",
+      "spot_usd_per_ounce": 5065.3,
+      "usd_per_gram_24k": 162.85
+    },
+    {
+      "date": "2026-03-06",
+      "spot_usd_per_ounce": 5146.1,
+      "usd_per_gram_24k": 165.45
+    },
+    {
+      "date": "2026-03-09",
+      "spot_usd_per_ounce": 5091.5,
+      "usd_per_gram_24k": 163.7
+    },
+    {
+      "date": "2026-03-10",
+      "spot_usd_per_ounce": 5229.7,
+      "usd_per_gram_24k": 168.14
+    },
+    {
+      "date": "2026-03-11",
+      "spot_usd_per_ounce": 5167.4,
+      "usd_per_gram_24k": 166.14
+    },
+    {
+      "date": "2026-03-12",
+      "spot_usd_per_ounce": 5115.8,
+      "usd_per_gram_24k": 164.48
+    },
+    {
+      "date": "2026-03-13",
+      "spot_usd_per_ounce": 5052.5,
+      "usd_per_gram_24k": 162.44
+    },
+    {
+      "date": "2026-03-16",
+      "spot_usd_per_ounce": 4994.0,
+      "usd_per_gram_24k": 160.56
+    },
+    {
+      "date": "2026-03-17",
+      "spot_usd_per_ounce": 5001.0,
+      "usd_per_gram_24k": 160.79
+    },
+    {
+      "date": "2026-03-18",
+      "spot_usd_per_ounce": 4889.9,
+      "usd_per_gram_24k": 157.21
+    },
+    {
+      "date": "2026-03-19",
+      "spot_usd_per_ounce": 4600.7,
+      "usd_per_gram_24k": 147.92
+    },
+    {
+      "date": "2026-03-20",
+      "spot_usd_per_ounce": 4570.4,
+      "usd_per_gram_24k": 146.94
+    },
+    {
+      "date": "2026-03-23",
+      "spot_usd_per_ounce": 4404.1,
+      "usd_per_gram_24k": 141.6
+    },
+    {
+      "date": "2026-03-24",
+      "spot_usd_per_ounce": 4399.3,
+      "usd_per_gram_24k": 141.44
+    },
+    {
+      "date": "2026-03-25",
+      "spot_usd_per_ounce": 4549.8,
+      "usd_per_gram_24k": 146.28
+    },
+    {
+      "date": "2026-03-26",
+      "spot_usd_per_ounce": 4375.5,
+      "usd_per_gram_24k": 140.68
+    },
+    {
+      "date": "2026-03-27",
+      "spot_usd_per_ounce": 4492.0,
+      "usd_per_gram_24k": 144.42
+    },
+    {
+      "date": "2026-03-30",
+      "spot_usd_per_ounce": 4526.0,
+      "usd_per_gram_24k": 145.51
+    },
+    {
+      "date": "2026-03-31",
+      "spot_usd_per_ounce": 4647.6,
+      "usd_per_gram_24k": 149.42
+    },
+    {
+      "date": "2026-04-01",
+      "spot_usd_per_ounce": 4783.2,
+      "usd_per_gram_24k": 153.78
+    },
+    {
+      "date": "2026-04-02",
+      "spot_usd_per_ounce": 4651.5,
+      "usd_per_gram_24k": 149.55
+    },
+    {
+      "date": "2026-04-06",
+      "spot_usd_per_ounce": 4656.8,
+      "usd_per_gram_24k": 149.72
+    },
+    {
+      "date": "2026-04-07",
+      "spot_usd_per_ounce": 4657.1,
+      "usd_per_gram_24k": 149.73
+    },
+    {
+      "date": "2026-04-08",
+      "spot_usd_per_ounce": 4749.5,
+      "usd_per_gram_24k": 152.7
+    },
+    {
+      "date": "2026-04-09",
+      "spot_usd_per_ounce": 4792.2,
+      "usd_per_gram_24k": 154.07
+    },
+    {
+      "date": "2026-04-10",
+      "spot_usd_per_ounce": 4761.9,
+      "usd_per_gram_24k": 153.1
+    },
+    {
+      "date": "2026-04-13",
+      "spot_usd_per_ounce": 4742.4,
+      "usd_per_gram_24k": 152.47
+    },
+    {
+      "date": "2026-04-14",
+      "spot_usd_per_ounce": 4825.0,
+      "usd_per_gram_24k": 155.13
+    },
+    {
+      "date": "2026-04-15",
+      "spot_usd_per_ounce": 4800.0,
+      "usd_per_gram_24k": 154.32
+    },
+    {
+      "date": "2026-04-16",
+      "spot_usd_per_ounce": 4785.4,
+      "usd_per_gram_24k": 153.85
+    },
+    {
+      "date": "2026-04-17",
+      "spot_usd_per_ounce": 4857.6,
+      "usd_per_gram_24k": 156.18
+    },
+    {
+      "date": "2026-04-20",
+      "spot_usd_per_ounce": 4806.6,
+      "usd_per_gram_24k": 154.54
+    },
+    {
+      "date": "2026-04-21",
+      "spot_usd_per_ounce": 4698.4,
+      "usd_per_gram_24k": 151.06
+    },
+    {
+      "date": "2026-04-22",
+      "spot_usd_per_ounce": 4732.5,
+      "usd_per_gram_24k": 152.15
+    },
+    {
+      "date": "2026-04-23",
+      "spot_usd_per_ounce": 4705.1,
+      "usd_per_gram_24k": 151.27
+    },
+    {
+      "date": "2026-04-24",
+      "spot_usd_per_ounce": 4722.3,
+      "usd_per_gram_24k": 151.83
+    },
+    {
+      "date": "2026-04-27",
+      "spot_usd_per_ounce": 4675.4,
+      "usd_per_gram_24k": 150.32
+    },
+    {
+      "date": "2026-04-28",
+      "spot_usd_per_ounce": 4591.5,
+      "usd_per_gram_24k": 147.62
+    },
+    {
+      "date": "2026-04-29",
+      "spot_usd_per_ounce": 4545.2,
+      "usd_per_gram_24k": 146.13
+    },
+    {
+      "date": "2026-04-30",
+      "spot_usd_per_ounce": 4614.7,
+      "usd_per_gram_24k": 148.37
+    },
+    {
+      "date": "2026-05-01",
+      "spot_usd_per_ounce": 4629.9,
+      "usd_per_gram_24k": 148.85
+    },
+    {
+      "date": "2026-05-04",
+      "spot_usd_per_ounce": 4519.5,
+      "usd_per_gram_24k": 145.31
+    },
+    {
+      "date": "2026-05-05",
+      "spot_usd_per_ounce": 4555.8,
+      "usd_per_gram_24k": 146.47
+    },
+    {
+      "date": "2026-05-06",
+      "spot_usd_per_ounce": 4681.9,
+      "usd_per_gram_24k": 150.53
+    },
+    {
+      "date": "2026-05-07",
+      "spot_usd_per_ounce": 4699.8,
+      "usd_per_gram_24k": 151.1
+    },
+    {
+      "date": "2026-05-08",
+      "spot_usd_per_ounce": 4720.4,
+      "usd_per_gram_24k": 151.76
+    },
+    {
+      "date": "2026-05-11",
+      "spot_usd_per_ounce": 4718.7,
+      "usd_per_gram_24k": 151.71
+    },
+    {
+      "date": "2026-05-12",
+      "spot_usd_per_ounce": 4677.6,
+      "usd_per_gram_24k": 150.39
+    },
+    {
+      "date": "2026-05-13",
+      "spot_usd_per_ounce": 4697.7,
+      "usd_per_gram_24k": 151.03
+    },
+    {
+      "date": "2026-05-14",
+      "spot_usd_per_ounce": 4678.1,
+      "usd_per_gram_24k": 150.4
+    },
+    {
+      "date": "2026-05-15",
+      "spot_usd_per_ounce": 4555.8,
+      "usd_per_gram_24k": 146.47
+    },
+    {
+      "date": "2026-05-18",
+      "spot_usd_per_ounce": 4552.5,
+      "usd_per_gram_24k": 146.37
+    },
+    {
+      "date": "2026-05-19",
+      "spot_usd_per_ounce": 4506.3,
+      "usd_per_gram_24k": 144.88
+    },
+    {
+      "date": "2026-05-20",
+      "spot_usd_per_ounce": 4531.3,
+      "usd_per_gram_24k": 145.68
+    },
+    {
+      "date": "2026-05-21",
+      "spot_usd_per_ounce": 4539.8,
+      "usd_per_gram_24k": 145.96
+    },
+    {
+      "date": "2026-05-22",
+      "spot_usd_per_ounce": 4521.0,
+      "usd_per_gram_24k": 145.35
+    },
+    {
+      "date": "2026-05-26",
+      "spot_usd_per_ounce": 4500.4,
+      "usd_per_gram_24k": 144.69
+    },
+    {
+      "date": "2026-05-27",
+      "spot_usd_per_ounce": 4447.5,
+      "usd_per_gram_24k": 142.99
+    },
+    {
+      "date": "2026-05-28",
+      "spot_usd_per_ounce": 4499.3,
+      "usd_per_gram_24k": 144.66
+    },
+    {
+      "date": "2026-05-29",
+      "spot_usd_per_ounce": 4560.5,
+      "usd_per_gram_24k": 146.62
+    },
+    {
+      "date": "2026-06-01",
+      "spot_usd_per_ounce": 4475.2,
+      "usd_per_gram_24k": 143.88
+    },
+    {
+      "date": "2026-06-02",
+      "spot_usd_per_ounce": 4489.1,
+      "usd_per_gram_24k": 144.33
+    },
+    {
+      "date": "2026-06-03",
+      "spot_usd_per_ounce": 4436.7,
+      "usd_per_gram_24k": 142.64
+    },
+    {
+      "date": "2026-06-04",
+      "spot_usd_per_ounce": 4475.8,
+      "usd_per_gram_24k": 143.9
+    },
+    {
+      "date": "2026-06-05",
+      "spot_usd_per_ounce": 4337.1,
+      "usd_per_gram_24k": 139.44
+    },
+    {
+      "date": "2026-06-08",
+      "spot_usd_per_ounce": 4335.9,
+      "usd_per_gram_24k": 139.4
+    },
+    {
+      "date": "2026-06-09",
+      "spot_usd_per_ounce": 4260.0,
+      "usd_per_gram_24k": 136.96
+    },
+    {
       "date": "2026-06-10",
-      "spot_usd_per_ounce": 4134.4,
-      "usd_per_gram_24k": 132.92
+      "spot_usd_per_ounce": 4136.5,
+      "usd_per_gram_24k": 132.99
     }
   ],
-  "last_updated_utc": "2026-06-10T17:33:07+00:00",
+  "last_updated_utc": "2026-06-10T18:32:19+00:00",
   "source": "GC=F",
   "exchange_rate_usd_to_lbp": 89500,
-  "spot_usd_per_ounce": 4134.4,
+  "spot_usd_per_ounce": 4136.5,
   "prices_per_gram": {
     "24k": {
-      "usd_per_gram": 132.92,
-      "lbp_per_gram": 11896340
+      "usd_per_gram": 132.99,
+      "lbp_per_gram": 11902605
     },
     "21k": {
-      "usd_per_gram": 116.31,
-      "lbp_per_gram": 10409745
+      "usd_per_gram": 116.37,
+      "lbp_per_gram": 10415115
     },
     "18k": {
-      "usd_per_gram": 99.69,
-      "lbp_per_gram": 8922255
+      "usd_per_gram": 99.74,
+      "lbp_per_gram": 8926730
     }
+  },
+  "prediction": {
+    "signal": "DOWN",
+    "confidence": 1.0,
+    "reason": "Short-term average below long-term and trend line falling.",
+    "sma_short": 4309.06,
+    "sma_long": 4476.82,
+    "slope_usd_per_day": -39.285
   }
 }
