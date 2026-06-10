@@ -1,0 +1,27 @@
+{
+  "history": [
+    {
+      "date": "2026-06-10",
+      "spot_usd_per_ounce": 4134.4,
+      "usd_per_gram_24k": 132.92
+    }
+  ],
+  "last_updated_utc": "2026-06-10T17:33:07+00:00",
+  "source": "GC=F",
+  "exchange_rate_usd_to_lbp": 89500,
+  "spot_usd_per_ounce": 4134.4,
+  "prices_per_gram": {
+    "24k": {
+      "usd_per_gram": 132.92,
+      "lbp_per_gram": 11896340
+    },
+    "21k": {
+      "usd_per_gram": 116.31,
+      "lbp_per_gram": 10409745
+    },
+    "18k": {
+      "usd_per_gram": 99.69,
+      "lbp_per_gram": 8922255
+    }
+  }
+}
