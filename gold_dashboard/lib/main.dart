@@ -284,7 +284,6 @@ class GoldDustPainter extends CustomPainter {
       if (p.size > 2.6) {
         dot.color = _gold.withOpacity(0.10 * tw);
         canvas.drawCircle(Offset(px, py), p.size * 3, dot);
-        dot.maskFilter = null;
       }
     }
 
@@ -1267,3 +1266,4 @@ class _ErrorView extends StatelessWidget {
     );
   }
 }
+                               
