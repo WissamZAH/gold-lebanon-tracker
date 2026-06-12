@@ -41,6 +41,15 @@ Glassmorphism cards (blur + translucency), animated trend arrow with a
 confidence bar, 24K/21K/18K price cards in USD and LBP, historical
 spot-price line chart, responsive desktop/mobile layout, pull-to-refresh.
 
+### ✅ Step 6 — Professional animated UI (`gold_dashboard/`)
+The background is alive and tells the market story: gold-dust particles
+**rise when the signal is UP, sink when DOWN, drift sideways when NEUTRAL**,
+and accelerate with confidence. Dust scatters away from the cursor, glow orbs
+orbit slowly (one tinted by the signal color), and the gradient "breathes".
+Plus: shimmering title, pulsing LIVE badge, stats strip (daily change %,
+30-day high/low), count-up prices, hover-lift glowing cards, staggered
+entrance, left-to-right chart reveal, and auto-refresh every 5 minutes.
+
 ## Run locally
 
 ```cmd

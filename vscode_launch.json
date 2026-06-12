@@ -1,0 +1,18 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Gold Dashboard (Chrome)",
+      "request": "launch",
+      "type": "dart",
+      "deviceId": "chrome"
+    },
+    {
+      "name": "Gold Dashboard (profile mode)",
+      "request": "launch",
+      "type": "dart",
+      "deviceId": "chrome",
+      "flutterMode": "profile"
+    }
+  ]
+}

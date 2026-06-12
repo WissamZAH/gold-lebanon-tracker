@@ -1,0 +1,10 @@
+{
+  "dart.flutterSdkPath": "C:\\dev\\flutter",
+  "editor.formatOnSave": true,
+  "dart.previewFlutterUiGuides": true,
+  "editor.rulers": [100],
+  "[dart]": {
+    "editor.defaultFormatter": "Dart-Code.dart-code",
+    "editor.suggestSelection": "first"
+  }
+}
