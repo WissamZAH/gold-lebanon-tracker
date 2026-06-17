@@ -654,32 +654,37 @@
       "date": "2026-06-16",
       "spot_usd_per_ounce": 4366.2,
       "usd_per_gram_24k": 140.38
+    },
+    {
+      "date": "2026-06-17",
+      "spot_usd_per_ounce": 4349.8,
+      "usd_per_gram_24k": 139.85
     }
   ],
-  "last_updated_utc": "2026-06-16T10:51:58+00:00",
+  "last_updated_utc": "2026-06-17T10:24:29+00:00",
   "source": "GC=F",
   "exchange_rate_usd_to_lbp": 89500,
-  "spot_usd_per_ounce": 4366.2,
+  "spot_usd_per_ounce": 4349.8,
   "prices_per_gram": {
     "24k": {
-      "usd_per_gram": 140.38,
-      "lbp_per_gram": 12564010
+      "usd_per_gram": 139.85,
+      "lbp_per_gram": 12516575
     },
     "21k": {
-      "usd_per_gram": 122.83,
-      "lbp_per_gram": 10993285
+      "usd_per_gram": 122.37,
+      "lbp_per_gram": 10952115
     },
     "18k": {
-      "usd_per_gram": 105.28,
-      "lbp_per_gram": 9422560
+      "usd_per_gram": 104.89,
+      "lbp_per_gram": 9387655
     }
   },
   "prediction": {
     "signal": "NEUTRAL",
-    "confidence": 0.42,
+    "confidence": 0.28,
     "reason": "Moving averages and trend slope disagree — no clear direction.",
-    "sma_short": 4286.34,
-    "sma_long": 4377.89,
-    "slope_usd_per_day": 4.423
+    "sma_short": 4306.94,
+    "sma_long": 4368.39,
+    "slope_usd_per_day": 14.308
   }
 }
