@@ -674,9 +674,14 @@
       "date": "2026-06-20",
       "spot_usd_per_ounce": 4172.9,
       "usd_per_gram_24k": 134.16
+    },
+    {
+      "date": "2026-06-21",
+      "spot_usd_per_ounce": 4172.9,
+      "usd_per_gram_24k": 134.16
     }
   ],
-  "last_updated_utc": "2026-06-20T08:39:01+00:00",
+  "last_updated_utc": "2026-06-21T09:33:55+00:00",
   "source": "GC=F",
   "exchange_rate_usd_to_lbp": 89500,
   "spot_usd_per_ounce": 4172.9,
@@ -695,11 +700,11 @@
     }
   },
   "prediction": {
-    "signal": "NEUTRAL",
-    "confidence": 0.26,
-    "reason": "Moving averages and trend slope disagree — no clear direction.",
-    "sma_short": 4272.06,
-    "sma_long": 4327.16,
-    "slope_usd_per_day": 4.862
+    "signal": "DOWN",
+    "confidence": 0.72,
+    "reason": "Short-term average below long-term and trend line falling.",
+    "sma_short": 4233.4,
+    "sma_long": 4310.84,
+    "slope_usd_per_day": -9.035
   }
 }
