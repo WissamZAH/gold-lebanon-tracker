@@ -1079,32 +1079,37 @@
       "date": "2026-09-10",
       "spot_usd_per_ounce": 4437.2,
       "usd_per_gram_24k": 142.66
+    },
+    {
+      "date": "2026-09-11",
+      "spot_usd_per_ounce": 4389.4,
+      "usd_per_gram_24k": 141.12
     }
   ],
-  "last_updated_utc": "2026-09-10T10:11:46+00:00",
+  "last_updated_utc": "2026-09-11T10:09:07+00:00",
   "source": "GC=F",
   "exchange_rate_usd_to_lbp": 89500,
-  "spot_usd_per_ounce": 4437.2,
+  "spot_usd_per_ounce": 4389.4,
   "prices_per_gram": {
     "24k": {
-      "usd_per_gram": 142.66,
-      "lbp_per_gram": 12768070
+      "usd_per_gram": 141.12,
+      "lbp_per_gram": 12630240
     },
     "21k": {
-      "usd_per_gram": 124.83,
-      "lbp_per_gram": 11172285
+      "usd_per_gram": 123.48,
+      "lbp_per_gram": 11051460
     },
     "18k": {
-      "usd_per_gram": 106.99,
-      "lbp_per_gram": 9575605
+      "usd_per_gram": 105.84,
+      "lbp_per_gram": 9472680
     }
   },
   "prediction": {
-    "signal": "NEUTRAL",
-    "confidence": 0.36,
-    "reason": "Moving averages and trend slope disagree — no clear direction.",
-    "sma_short": 4454.3,
-    "sma_long": 4535.73,
-    "slope_usd_per_day": 2.388
+    "signal": "DOWN",
+    "confidence": 0.78,
+    "reason": "Short-term average below long-term and trend line falling.",
+    "sma_short": 4436.86,
+    "sma_long": 4524.77,
+    "slope_usd_per_day": -1.904
   }
 }
